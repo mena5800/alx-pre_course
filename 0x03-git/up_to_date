@@ -1,0 +1,10 @@
+git pull 
+git clone "repo link+token"
+git push
+git add *
+git commit -m "message"
+git branch 
+git checkout "name of branch"
+git init 
+git status
+ 
